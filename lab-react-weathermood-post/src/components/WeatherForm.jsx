@@ -54,18 +54,18 @@ export default class WeatherForm extends React.Component {
 
         return (
             <div className={`weather-form ${form}`}>{this.state.formToggle ?
-                <Form className='form-inline justify-content-center' onSubmit={this.handleSubmit}>
+                <Form className='form-inline justify-content-center'>
                     <Input type='text' name='city' innerRef={el => {this.inputEl = el}} value={this.state.inputValue} onChange={this.handleInputChange}></Input>&nbsp;
-                    <ButtonDropdown type='buttom' isOpen={this.state.tempToggle} toggle={this.handleTempToggle}>
-                        <DropdownToggle type='button' caret color="secondary">
+                    <ButtonDropdown isOpen={this.state.tempToggle} toggle={this.handleTempToggle}>
+                        <DropdownToggle caret color="secondary">
                             &ordm; {WeatherForm.getUnitString(this.state.unit)}
                         </DropdownToggle>
                         <DropdownMenu>
-                            <DropdownItem type='button' onClick={this.handleMetricUnit}>&ordm; C</DropdownItem>
-                            <DropdownItem type='button' onClick={this.handleImperialUnit}>&ordm; F</DropdownItem>
+                            <DropdownItem onClick={this.handleMetricUnit}>&ordm; C</DropdownItem>
+                            <DropdownItem onClick={this.handleImperialUnit}>&ordm; F</DropdownItem>
                         </DropdownMenu>
                     </ButtonDropdown>&nbsp;
-                    <Button color="info">Check</Button>
+                    <Button onClick={this.handleSubmit} color="warning">Check</Button>
                 </Form>
                 :
                 <Button className='btn-form' outline color="secondary" onClick={this.handleFormToggle}><i className='fa fa-map-marker' aria-hidden="true"></i>&nbsp;&nbsp;{this.props.city}</Button>

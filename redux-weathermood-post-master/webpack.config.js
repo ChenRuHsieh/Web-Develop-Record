@@ -75,7 +75,7 @@ module.exports = {
     devServer: {
         contentBase: distPath,
         compress: true,
-        port: 8080
+        port: 9090
     },
     devtool: 'cheap-source-map'
 };

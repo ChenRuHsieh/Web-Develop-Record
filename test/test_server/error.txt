@@ -1,0 +1,206 @@
+1566876694 ERROR  SyntaxError: Unexpected token p in JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+1566876722 ERROR  SyntaxError: Unexpected token p in JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+1566876737 ERROR  SyntaxError: Unexpected token p in JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+1566876738 ERROR  SyntaxError: Unexpected token p in JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+1566876749 ERROR  SyntaxError: Unexpected token p in JSON at position 3
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+1566876833 ERROR  ReferenceError: next is not defined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\heritages.js:25:14
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+1566876858 ERROR  ReferenceError: next is not defined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\heritages.js:25:14
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+1566895416 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:30:44
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1566895459 ERROR  Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\Web-Develop-Record\test\test_server\dist\testament\ITRI-ICL 暑期實習_2019.pdf'
+1566895664 ERROR  Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\Web-Develop-Record\test\test_server\dist\testament\ITRI-ICL 暑期實習_2019.pdf'
+1566895921 ERROR  Error: ENOENT: no such file or directory, open 'C:\Users\user\Desktop\Web-Develop-Record\test\test_server\dist\testament\ITRI-ICL 暑期實習_2019.pdf'
+1566905541 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:30:64
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1566905582 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:30:64
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1566906272 ERROR  TypeError: Cannot convert object to primitive value
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:31:36
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Immediate.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at runCallback (timers.js:706:11)
+    at tryOnImmediate (timers.js:676:5)
+    at processImmediate (timers.js:658:5)
+1566978967 ERROR  ReferenceError: heritages is not defined
+    at personModel.list.then.persons (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:14:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+1566978977 ERROR  ReferenceError: heritages is not defined
+    at personModel.list.then.persons (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:14:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+1566978979 ERROR  ReferenceError: heritages is not defined
+    at personModel.list.then.persons (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:14:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+1566978979 ERROR  ReferenceError: heritages is not defined
+    at personModel.list.then.persons (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:14:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+1567045806 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:35:40
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1567047733 ERROR  ReferenceError: heritage is not defined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:23:5
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\body-parser\lib\read.js:130:5
+    at invokeCallback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\raw-body\index.js:224:16)
+1567068324 ERROR  Error: EBUSY: resource busy or locked, open 'C:\Users\user\Desktop\Web-Develop-Record\test\test_server\dist\testaments\B123216884.pdf'
+1567068326 ERROR  TypeError: Cannot read property 'chineseName' of undefined
+    at _listPersonalInfo (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:105:37)
+    at Promise (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:79:23)
+    at new Promise (<anonymous>)
+    at Object.create (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:58:12)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:30:17
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\index.js:281:22
+1567093941 ERROR  ReferenceError: carArr is not defined
+    at _listMotorArr (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:184:67)
+    at _listChattel (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:113:16)
+    at Promise (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:70:54)
+    at new Promise (<anonymous>)
+    at Object.create (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\model\persons.js:50:12)
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\persons.js:30:17
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+1567153448 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:35:40
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1567153450 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:35:40
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+1567181369 ERROR  TypeError: Cannot read property '0' of undefined
+    at C:\Users\user\Desktop\Web-Develop-Record\test\test_server\src\routers\testaments.js:35:40
+    at Layer.handle [as handle_request] (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\express\lib\router\route.js:137:13)
+    at Array.<anonymous> (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\multer\lib\make-middleware.js:53:37)
+    at listener (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:169:15)
+    at onFinish (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\on-finished\index.js:100:5)
+    at callback (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:55:10)
+    at IncomingMessage.onevent (C:\Users\user\Desktop\Web-Develop-Record\test\test_server\node_modules\ee-first\index.js:93:5)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)

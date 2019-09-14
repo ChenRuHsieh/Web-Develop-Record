@@ -50,8 +50,8 @@ export default class WeatherForm extends React.Component {
             <div className='weather-form'>
                 <Form className='form-inline justify-content-center' onSubmit={this.handleSubmit}>
                     <Input type='text' name='city' getRef={el => {this.inputEl = el}} value={this.state.inputValue} onChange={this.handleInputChange}></Input>&nbsp;
-                    <ButtonDropdown type='buttom' isOpen={this.state.tempToggle} toggle={this.handleTempToggle}>
-                        <DropdownToggle type='button' caret color="secondary">
+                    <ButtonDropdown type='button' isOpen={this.state.tempToggle} toggle={this.handleTempToggle}>
+                        <DropdownToggle caret>
                             &ordm; {WeatherForm.getUnitString(this.state.unit)}
                         </DropdownToggle>
                         <DropdownMenu>
